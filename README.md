@@ -11,6 +11,20 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 ## Training and Validation Loss:<br>
 ![image](https://github.com/GK884/Cotton-Disease-Prediction/blob/main/gitphotos/training%20and%20val%20loss.PNG)
 
+## How to run on your local:<br>
+step1: fork and clone this repository
+```sh
+git clone 'https://github.com/GK884/Cotton-Disease-Prediction.git'
+```
+step2: Make a new Environment
+```sh
+conda create -n envname
+```
+step3: Install requirements.txt 
+```sh
+pip install -r requirements.txt
+```
+step4: run app.py
 
 Detail:  Flask App running on http://127.0.0.1:5000 / Or on your metioned PORT No
 
