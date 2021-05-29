@@ -5,10 +5,10 @@
 ## Introduction:<br>
 This Deep Learning Web Application is build using Tensorflow-Keras in this we have used Transfer Learning in which we are using INCEPTION-V3 Architecture, this web application classify images of the diseased cotton leaf,fresh cotton leaf,diseased cotton plant and fresh cotton plant.During creating a perfect model we have trained this Cotton Leaf Image Dataset with Different Transfer Learning Architectures.
 
-##Traininig and Validation Accuracy
+## Traininig and Validation Accuracy:<br>
 ![image](https://github.com/GK884/Cotton-Disease-Prediction/blob/main/gitphotos/training%20and%20val%20accuracy.PNG)
 
-##Training and Validation Loss
+## Training and Validation Loss:<br>
 ![image](https://github.com/GK884/Cotton-Disease-Prediction/blob/main/gitphotos/training%20and%20val%20loss.PNG)
 
 
